@@ -1,0 +1,74 @@
+/* Type scale — modular (≈1.25) with fluid steps. Script for feeling,
+   Cormorant for reading, Montserrat only for small supporting text. */
+
+.type-script-xl {
+  font-family: var(--font-script);
+  font-weight: 400;
+  font-size: clamp(3.4rem, 11vw, 7.25rem);
+  line-height: 1.05;
+  color: var(--color-dusty);
+}
+
+.type-script-lg {
+  font-family: var(--font-script);
+  font-weight: 400;
+  font-size: clamp(2.75rem, 8vw, 4.75rem);
+  line-height: 1.1;
+  color: var(--color-dusty);
+}
+
+.type-script-md {
+  font-family: var(--font-script);
+  font-size: clamp(1.9rem, 4.5vw, 2.6rem);
+  line-height: 1.15;
+  color: var(--color-dusty);
+}
+
+.type-display {
+  font-family: var(--font-serif);
+  font-weight: 300;
+  font-size: clamp(2rem, 6vw, 3.5rem);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  color: var(--color-ink);
+}
+
+.type-lede {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(1.2rem, 2.6vw, 1.55rem);
+  line-height: 1.5;
+  color: var(--color-ink);
+}
+
+.type-letter {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  font-size: clamp(1.14rem, 2.2vw, 1.3rem);
+  line-height: 1.8;
+  color: var(--color-ink);
+}
+
+.type-small {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--color-dusty);
+}
+
+.type-caption {
+  font-family: var(--font-script);
+  font-size: 1.35rem;
+  line-height: 1;
+  color: var(--color-dusty);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.text-pretty {
+  text-wrap: pretty;
+}
