@@ -31,14 +31,25 @@ export const content = {
      * share, an inside joke, the moment you knew. Your own words will mean the most.
      */
     paragraphs: [
-      'Happy birthday, my love. Today is all about you, and I wanted to give you something that holds a little of what I feel for you every single day.',
-      'Thank you for being my partner, my best friend, and my home. Life is brighter, softer, and so much happier because I get to share it with you. I don’t say it nearly enough, but I am deeply grateful for you: for your heart, your patience, and the way you love.',
-      'You are more beautiful than you know, inside and out. Simply watching you be yourself is one of my favorite things in this world.',
-      'On your birthday, I wish you peace in your heart, laughter in your days, and every dream you are quietly holding to come true. As your husband, I will keep choosing you, loving you, and standing beside you, today and in all the years to come.',
+      'Happy Birthday, my love!!! I know this gift will be sent to you late because I am still developing it po. I am sorry if this is all I can give you for now po. So, my love, here is my message for you.',
+    
+      'My love, thank you for being so good to me and for being the best partner ever, hehe. I really appreciate how you handle me, how you are always there during the times when I need you, and even during those moments when I simply need your company. I know you are not fully aware of all of this, but being with you has become my escape from my pressured, difficult, and overwhelming reality. Having you did not instantly fix everything, but you made my life more bearable and somehow gave me the motivation to keep striving and overcome my struggles one by one. Your presence means more to me than you could ever imagine, my love.',
+    
+      'Today is your special day po, and I thank God for creating you and allowing our paths to meet. I pray that God will grant you the beautiful future that the two of us have been talking about. I pray that He will always be gentle with you, especially during the times when life becomes difficult, and that He will help you overcome everything you are fighting against po. I pray that He will continue to shower you and your family with abundant blessings, safeguard you through His angels from above, and protect, cleanse, and strengthen you through His Most Holy Blood. Most importantly, I pray that your life will become a living sacrifice and a beautiful offering to Him, guiding you to live according to His Holy Will. May you always find peace, strength, and comfort in His presence, my love.',
+    
+      'Before I end my message sa imo, my love, I want to greet you once again: Happy, Happy Birthday po, Glyde!!! Mwauuhhh! I also want to leave you with these beautiful Bible verses that I hope will remind you of God’s love, guidance, and the beautiful love that we share.',
+
+      'Psalm 23:1 (KJV): "The LORD is my shepherd; I shall not want."',
+
+      'Proverbs 16:3 (KJV): "Commit thy works unto the LORD, and thy thoughts shall be established."', 
+
+      'Song of Solomon 8:6–7 (KJV): "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame. Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned."', 
+    
+      'Once again, Happy, Happy Birthday, Glyde, my love!!! May God bless you abundantly, guide you in every step you take, and fill your life with His everlasting love and grace. I LOVE YOU SO MUCHHH!!! MWAUUHHH!!! GOD BLESS YOU ALWAYS, MY LOVE!!! ❤️'
     ],
 
     closing: 'Forever yours,',
-    signature: 'Your Husband.',
+    signature: 'Your Austien.',
   },
 
   cake: {
