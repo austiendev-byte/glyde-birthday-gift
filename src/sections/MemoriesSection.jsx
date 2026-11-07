@@ -98,7 +98,7 @@ const Tile = memo(function Tile({ photo, index, clone = false }) {
           <img
             src={photo.src}
             alt={clone ? '' : photo.alt}
-            loading="lazy"
+            loading="eager"
             decoding="async"
             onError={() => setFailed(true)}
             className="absolute inset-0 h-full w-full object-cover"

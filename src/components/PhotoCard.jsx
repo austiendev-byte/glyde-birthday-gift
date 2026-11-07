@@ -35,7 +35,7 @@ function PhotoCard({
         <img
           src={photo.src}
           alt={photo.alt || ''}
-          loading={eager ? 'eager' : 'lazy'}
+          loading="eager"
           fetchPriority={eager ? 'high' : undefined}
           decoding="async"
           sizes={sizes}
